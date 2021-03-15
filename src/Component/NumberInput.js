@@ -15,7 +15,7 @@ const NumberInput = ({ setNumber, setIsReady , setTable }) => {
                 setTable(table)
                 setIsReady(true)
             }else{
-                alert('กรุณาใส่เลขให้มากกว่าเท่ากลับ 3')
+                alert('กรุณาใส่เลขให้มากกว่าเท่ากับ 3')
             }
         } else {
             alert('กรุณาใส่ข้อมูลให้ถูกต้อง')
