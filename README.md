@@ -1,7 +1,5 @@
 # tictactoe
 
-npm install
-or
-yarn
+1st : npm install or yarn
 
-yarn start or npm start
+2nd : yarn start or npm start
